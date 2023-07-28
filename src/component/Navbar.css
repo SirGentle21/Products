@@ -1,0 +1,46 @@
+.navbar {
+  background: transparent lavender ;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  position: fixed;
+  width: 100%;
+  margin-right: 0.5rem;
+}
+
+.main-div ul {
+  display: flex;
+  padding-left: 1rem;
+}
+
+.main-div ul li {
+  list-style: none;
+  padding-left: 2.5rem;
+  color: darkslateblue;
+  font-weight: 300;
+}
+
+.second-div {
+  width: 50%;
+}
+
+.second-div ul {
+  display: flex;
+}
+
+.second-div li {
+  list-style: none;
+}
+
+.second-div .landing {
+  margin-right: 18rem;
+  color: darkslateblue;
+}
+
+.second-div button {
+  padding: 0.3rem 1.5rem;
+  color: #fff;
+  border: none;
+  background: darkslateblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
